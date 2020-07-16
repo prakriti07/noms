@@ -3,6 +3,9 @@ go:
 - 1.x
 os:
 - linux
+arch:
+- amd64
+- arm64
 env:
 - GO111MODULE=on
 before_install:
